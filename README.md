@@ -117,8 +117,19 @@ python3 -m http.server 8765
 ## 🎵 致謝
 
 - BGM《Digital Pulse》以 **Suno 6.1 mini** 生成。
+
 - 地景取材自台北信義區真實街廓；建築與品牌名稱僅作為導航地標示意。
 - 貓頭鷹是圓圓的棕色身體、耳羽、琥珀色大眼、會拍的翅膀。從來不是一顆會發光的球。
+
+## 🌙 Build Day
+
+> 🦉 **關於這次 Build**：這個專案是在 [Taipei | Claude Code Build Day](https://lu.ma/) 的 90 分鐘限時現場中，用 Fable 5.1 一次生成出來的——事前沒有寫好的半成品。
+>
+> - 主辦：Claude Community Taiwan · 賽道：Delight
+> - 時間：2026 年 9 月 20 日 17:00–22:00
+> - 地點：華南銀行國際會議中心 HNBK International Convention Center，台北市信義區松仁路 123 號 2 樓
+>
+> 完整的原始 prompt 放在 [`PROMPT.md`](PROMPT.md)——這份文件是「輸入」，`index.html` 是 Fable 5.1 當場給出的「輸出」。
 
 ## 📄 License
 
